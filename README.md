@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Akhil-Binu
-- 👀 I’m interested in Cybersecurity Researcher and Software Developer.
-- 🌱 I’m currently learning B Tech in Computer Science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a penetrarion tester and Software Developer.
+- 🌱 I’m currently pursuing my undergraduate professional degree in computer science
 - 📫 How to reach me ..
 - 
-- Connect me on linkedin
+- Connect me on linkedin -->> https://www.linkedin.com/in/akhil-binu/
+- connect me on my portfolio -->> http://akhilbinuonline.tech/
+
+
 
 
 <!---
