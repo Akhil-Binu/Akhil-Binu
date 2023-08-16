@@ -4,7 +4,7 @@
 - 📫 How to reach me ..
 - 
 - Connect me on linkedin -->> https://www.linkedin.com/in/akhil-binu/
-- connect me on my portfolio -->> http://akhilbinuonline.tech/
+- connect me on my portfolio -->> https://akhil-binu.github.io/personal-website/
 
 
 
