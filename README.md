@@ -1,18 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Akhil Binu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-binu&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-binu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-binu" alt="akhil-binu" /></a> </p>
 
-- 🔭 I’m currently working on **S**
+- 🔭 I’m currently working as an **MEAN Stack Intern @ Brototype**
 
 - 🌱 I’m currently learning **MEAN Stack Framework**
 
 - 👨‍💻 All of my projects are available at [https://akhil-binu.netlify.app/](https://akhil-binu.netlify.app/)
 
-- 💬 Ask me about **C, JavaScript, Python, Nodejs, Angularjs, MongoDB, MySql, Html,CSS**
+- 💬 Ask me about **C, JavaScript, Python, Nodejs, Angular, React, MongoDB, MySql, Html,CSS**
 
 - 📫 How to reach me **akhilbinuroom@gmail.com**
 
