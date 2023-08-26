@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhil-binu.netlify.app/](https://akhil-binu.netlify.app/)
 
-- 💬 Ask me about **C, JavaScript, Python, Nodejs, Angular, React, MongoDB, MySql, Html,CSS**
+- 💬 Ask me about **MEAN Stack Development**
 
 - 📫 How to reach me **akhilbinuroom@gmail.com**
 
