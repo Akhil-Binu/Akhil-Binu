@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Binu</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Data Science Engineer from India</h3>
 
 - 🔭 I’m currently working as an **Data Science Intern @ Brototype**
 
