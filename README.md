@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science Intern**
 
-- 👨‍💻 All of my projects are available at [https://akhil-binu.netlify.app/](https://akhilbinu.onrender.com/)
+- 👨‍💻 All of my projects are available at [Akhil Binu](https://akhilbinu.onrender.com/)
 
 - 💬 Ask me about **Data Science**
 
