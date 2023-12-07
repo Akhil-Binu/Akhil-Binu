@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Binu</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
+<h3 align="center">A passionate CyberSecurity Engineer from India</h3>
 
 - 🔭 I’m currently working as an **Data Science Intern @ Brototype**
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [Akhil Binu](https://akhilbinu.onrender.com/)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Information Security**
 
 - 📫 How to reach me **akhilbinuroom@gmail.com**
 
-- Upgrading myself to become an AI Engineer
+- Upgrading myself to become an CyberSecurity Engineeer
 
 
 
