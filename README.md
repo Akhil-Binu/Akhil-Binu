@@ -212,10 +212,10 @@ Beyond high-level web applications, I maintain reference implementations for low
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Binu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Akhil's GitHub Stats" width="415" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Akhil-Binu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Akhil's GitHub Stats" width="415" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="375" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="375" />
       </td>
     </tr>
   </table>
