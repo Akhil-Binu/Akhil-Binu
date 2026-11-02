@@ -98,22 +98,39 @@ I am a **Cybersecurity Engineer and Security Researcher** specializing in **Appl
 ### 🚀 Featured Engineering & Security Systems
 
 <table>
-  <!-- Row 1 -->
+  <!-- Row 1: Forensics & DevSecOps Flagships -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Akhil-Binu/Akhil-PhishGuard">Akhil-PhishGuard</a></h3>
-      <p><b>Intelligent Threat Detection &amp; Anti-Phishing Protection Suite</b></p>
-      <p>An automated security suite engineered to analyze malicious URLs, inspect deceptive domains, and protect end-users from sophisticated social engineering vectors.</p>
+      <h3>🧾 <a href="https://github.com/Akhil-Binu/fraudcheck">FraudCheck</a></h3>
+      <p><b>Tampered Invoice &amp; Digital Document Forensics Platform</b></p>
+      <p>An enterprise-grade document forensics platform designed to detect invoice spoofing, digital document tampering, wire detail redirection, and retroactive metadata alterations.</p>
       <ul>
-        <li>Real-time domain reputation and lexical heuristic scoring</li>
-        <li>Integrates threat intelligence feeds and spoofing detection</li>
+        <li>Error Level Analysis (ELA), visual artifact scanning &amp; font mismatch detection</li>
+        <li>Automated IBAN, IFSC, and wire transfer payment detail routing verification</li>
       </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>JavaScript</code> <code>Threat Intel APIs</code></p>
+      <p><b>Stack:</b> <code>FastAPI (Python)</code> <code>React 18</code> <code>PyMuPDF</code> <code>OpenCV</code> <code>Tailwind</code></p>
       <p>
-        <a href="https://akhil-phish-guard.vercel.app/" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/Akhil-Binu/Akhil-PhishGuard"><b>Repository ↗</b></a>
+        <a href="https://fraudcheck-taupe.vercel.app" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Akhil-Binu/fraudcheck"><b>Repository ↗</b></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Akhil-Binu/SecretShield">SecretShield</a></h3>
+      <p><b>Instant Git Secret &amp; API Key Leak Auditor (Shift-Left DevSecOps)</b></p>
+      <p>High-velocity scanner detecting exposed API keys, private credentials, and high-entropy secrets across repositories and commits before public exploitation.</p>
+      <ul>
+        <li>Shannon entropy calculation and 100+ precision token signature heuristics</li>
+        <li>Direct git tree inspection, pre-commit configuration generator &amp; remediation</li>
+      </ul>
+      <p><b>Stack:</b> <code>FastAPI</code> <code>Docker</code> <code>Entropy Engine</code> <code>DevSecOps</code></p>
+      <p>
+        <a href="https://huggingface.co/spaces/akhilbinu/secretshield" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Akhil-Binu/SecretShield"><b>Repository ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <!-- Row 2: Production Applications & Threat Intelligence -->
+  <tr>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/Akhil-Binu/personal-expense-tracker">FinanceFlow (v2.0)</a></h3>
       <p><b>Production Personal Wealth &amp; Expense Management Platform</b></p>
@@ -128,8 +145,22 @@ I am a **Cybersecurity Engineer and Security Researcher** specializing in **Appl
         <a href="https://github.com/Akhil-Binu/personal-expense-tracker"><b>Repository ↗</b></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Akhil-Binu/Akhil-PhishGuard">Akhil-PhishGuard</a></h3>
+      <p><b>Intelligent Threat Detection &amp; Anti-Phishing Protection Suite</b></p>
+      <p>An automated security suite engineered to analyze malicious URLs, inspect deceptive domains, and protect end-users from sophisticated social engineering vectors.</p>
+      <ul>
+        <li>Real-time domain reputation and lexical heuristic scoring</li>
+        <li>Integrates threat intelligence feeds and spoofing detection</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> <code>JavaScript</code> <code>Threat Intel APIs</code></p>
+      <p>
+        <a href="https://akhil-phish-guard.vercel.app/" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/Akhil-Binu/Akhil-PhishGuard"><b>Repository ↗</b></a>
+      </p>
+    </td>
   </tr>
-  <!-- Row 2 -->
+  <!-- Row 3: Scanners & Security Education -->
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/Akhil-Binu/Akhil-Website-Scanner">Akhil WebGuard</a></h3>
@@ -160,7 +191,7 @@ I am a **Cybersecurity Engineer and Security Researcher** specializing in **Appl
       </p>
     </td>
   </tr>
-  <!-- Row 3 -->
+  <!-- Row 4: OSINT & Cryptographic Security -->
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Akhil-Binu/SUB-DOMAIN-ENUMERATOR">SUB-DOMAIN-ENUMERATOR</a></h3>
