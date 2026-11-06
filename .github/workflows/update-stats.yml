@@ -29,12 +29,13 @@ jobs:
       - name: Fetch and Validate Telemetry SVGs
         run: |
           python -c "
-          import urllib.request, os
+          import urllib.request, os, time
+          ts = int(time.time())
 
           endpoints = {
-              'assets/github-stats.svg': 'https://github-readme-stats-anuraghazra1.vercel.app/api?username=Akhil-Binu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8',
-              'assets/top-languages.svg': 'https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8',
-              'assets/github-streak.svg': 'https://streak-stats.demolab.com/?user=Akhil-Binu&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8'
+              'assets/github-stats.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api?username=Akhil-Binu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&_={ts}',
+              'assets/top-languages.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&_={ts}',
+              'assets/github-streak.svg': f'https://streak-stats.demolab.com/?user=Akhil-Binu&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&_={ts}'
           }
 
           os.makedirs('assets', exist_ok=True)
