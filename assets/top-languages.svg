@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="223.86" 
+            width="223.75" 
             height="8"
             fill="#3572A5"
           />
@@ -92,9 +92,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="223.86" 
+            x="223.75" 
             y="0"
-            width="29.70" 
+            width="29.69" 
             height="8"
             fill="#44a51c"
           />
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="253.56" 
+            x="253.44" 
             y="0"
-            width="26.52" 
+            width="26.50" 
             height="8"
             fill="#4E8D83"
           />
@@ -112,9 +112,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="280.08" 
+            x="279.94" 
             y="0"
-            width="11.93" 
+            width="12.08" 
             height="8"
             fill="#f1e05a"
           />
@@ -122,7 +122,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="292.01" 
+            x="292.02" 
             y="0"
             width="17.990000000000002" 
             height="8"
@@ -133,7 +133,7 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 74.62%
+        Python 74.58%
       </text>
     </g>
   
@@ -147,14 +147,14 @@
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#4E8D83" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SIP 8.84%
+        SIP 8.83%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 3.98%
+        JavaScript 4.03%
       </text>
     </g>
   
