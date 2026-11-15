@@ -33,9 +33,9 @@ jobs:
           ts = int(time.time())
 
           endpoints = {
-              'assets/github-stats.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api?username=Akhil-Binu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&_={ts}',
-              'assets/top-languages.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&_={ts}',
-              'assets/github-streak.svg': f'https://streak-stats.demolab.com/?user=Akhil-Binu&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&_={ts}'
+              'assets/github-stats.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api?username=Akhil-Binu&show_icons=true&hide_border=true&count_private=true&bg_color=F7F5F0&title_color=C8452B&text_color=6E685F&icon_color=C8452B&ring_color=C8452B&_={ts}',
+              'assets/top-languages.svg': f'https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Akhil-Binu&layout=compact&hide_border=true&bg_color=F7F5F0&title_color=C8452B&text_color=6E685F&_={ts}',
+              'assets/github-streak.svg': f'https://streak-stats.demolab.com/?user=Akhil-Binu&hide_border=true&background=F7F5F0&stroke=E4DFD6&ring=C8452B&fire=C8452B&currStreakNum=171614&sideNums=171614&currStreakLabel=C8452B&sideLabels=6E685F&dates=9C9485&_={ts}'
           }
 
           os.makedirs('assets', exist_ok=True)
