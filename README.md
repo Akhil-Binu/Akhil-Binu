@@ -35,22 +35,22 @@ Cybersecurity engineer and security researcher working across **application secu
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Akhil-Binu/fraudcheck">FraudCheck</a></h3>
-      <i>Invoice &amp; document forensics</i><br/><br/>
-      Catches invoice spoofing, document tampering, wire-detail redirection, and retroactive metadata edits before payments go out the door.
+      <p><i>Invoice &amp; document forensics</i></p>
+      <p>Detects invoice spoofing, document tampering, and wire-detail redirection before payments clear.</p>
       <ul>
-        <li>Error Level Analysis, visual artifact scanning &amp; font-mismatch detection</li>
-        <li>Automated IBAN / IFSC / wire-transfer routing verification</li>
+        <li>Error Level Analysis &amp; font-mismatch detection</li>
+        <li>IBAN / IFSC / wire-routing verification</li>
       </ul>
       <sub>FASTAPI&nbsp;&nbsp;·&nbsp;&nbsp;REACT 18&nbsp;&nbsp;·&nbsp;&nbsp;PYMUPDF&nbsp;&nbsp;·&nbsp;&nbsp;OPENCV</sub><br/><br/>
       <a href="https://fraudcheck-taupe.vercel.app" target="_blank"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Akhil-Binu/fraudcheck"><b>Source ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Akhil-Binu/SecretShield">SecretShield</a></h3>
-      <i>Git secret-leak auditing</i><br/><br/>
-      High-velocity scanner that flags exposed API keys, private credentials, and high-entropy secrets across repos and commit history — before someone else finds them.
+      <p><i>Git secret-leak auditing</i></p>
+      <p>Flags exposed API keys, credentials, and high-entropy secrets across repos and commit history.</p>
       <ul>
-        <li>Shannon entropy engine + 100+ precision token signature heuristics</li>
-        <li>Direct git tree inspection, pre-commit config generator &amp; remediation</li>
+        <li>Shannon entropy + 100+ token signatures</li>
+        <li>Git tree inspection &amp; pre-commit remediation</li>
       </ul>
       <sub>FASTAPI&nbsp;&nbsp;·&nbsp;&nbsp;DOCKER&nbsp;&nbsp;·&nbsp;&nbsp;ENTROPY ENGINE</sub><br/><br/>
       <a href="https://huggingface.co/spaces/akhilbinu/secretshield" target="_blank"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Akhil-Binu/SecretShield"><b>Source ↗</b></a>
@@ -59,22 +59,22 @@ Cybersecurity engineer and security researcher working across **application secu
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Akhil-Binu/personal-expense-tracker">FinanceFlow</a></h3>
-      <i>Personal wealth &amp; expense tracking</i><br/><br/>
-      Full-stack money tracker with multi-account wealth views, AI-assisted receipt parsing, and hardened authentication — running in production.
+      <p><i>Personal wealth &amp; expense tracking</i></p>
+      <p>Multi-account wealth tracking with AI receipt parsing and hardened auth, running in production.</p>
       <ul>
-        <li>Receipt OCR parsing &amp; automated expense categorization</li>
-        <li>Two-factor authentication, PWA install &amp; Excel report export</li>
+        <li>Receipt OCR &amp; expense categorization</li>
+        <li>2FA, PWA support &amp; Excel exports</li>
       </ul>
       <sub>FLASK 3.1&nbsp;&nbsp;·&nbsp;&nbsp;SQLITE&nbsp;&nbsp;·&nbsp;&nbsp;OCR&nbsp;&nbsp;·&nbsp;&nbsp;PWA</sub><br/><br/>
       <a href="https://akhilbinu.pythonanywhere.com/" target="_blank"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Akhil-Binu/personal-expense-tracker"><b>Source ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Akhil-Binu/Akhil-PhishGuard">PhishGuard</a></h3>
-      <i>Anti-phishing threat detection</i><br/><br/>
-      Analyzes malicious URLs and deceptive domains in real time to blunt credential harvesting and social-engineering attacks before users click through.
+      <p><i>Anti-phishing threat detection</i></p>
+      <p>Analyzes malicious URLs and deceptive domains in real time, before users click through.</p>
       <ul>
-        <li>Real-time domain reputation &amp; lexical heuristic scoring</li>
-        <li>Threat-intelligence feed integration &amp; spoofing detection</li>
+        <li>Domain reputation &amp; lexical heuristic scoring</li>
+        <li>Threat-intel feeds &amp; spoof detection</li>
       </ul>
       <sub>PYTHON&nbsp;&nbsp;·&nbsp;&nbsp;JAVASCRIPT&nbsp;&nbsp;·&nbsp;&nbsp;THREAT INTEL APIS</sub><br/><br/>
       <a href="https://akhil-phish-guard.vercel.app/" target="_blank"><b>Live demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Akhil-Binu/Akhil-PhishGuard"><b>Source ↗</b></a>
