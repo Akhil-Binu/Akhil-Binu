@@ -8,7 +8,6 @@
   <!-- Quick actions -->
   <a href="https://akhilbinu.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-akhilbinu.in-171614?style=flat-square&logo=google-chrome&logoColor=F7F5F0" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/akhilbinu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akhilbinu-171614?style=flat-square&logo=linkedin&logoColor=F7F5F0" alt="LinkedIn" /></a>
-  <a href="mailto:AkhilBinuRoom@gmail.com"><img src="https://img.shields.io/badge/Email-AkhilBinuRoom-171614?style=flat-square&logo=gmail&logoColor=F7F5F0" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to_collaborations-C8452B?style=flat-square" alt="Open to collaborations" />
 
 </div>
@@ -136,14 +135,13 @@ Cybersecurity engineer and security researcher working across **application secu
 ## 07 · Contact
 
 <p align="center">
-  Security research collaborations, open-source tooling, or application security consulting — the inbox is open.
+  Security research collaborations, open-source tooling, or application security consulting — reach out via LinkedIn or portfolio.
 </p>
 
 <p align="center">
   <a href="https://akhilbinu.in/" target="_blank"><img src="https://img.shields.io/badge/Website-akhilbinu.in-171614?style=flat-square&logo=google-chrome&logoColor=F7F5F0" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/akhilbinu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akhilbinu-171614?style=flat-square&logo=linkedin&logoColor=F7F5F0" alt="LinkedIn" /></a>
   <a href="https://github.com/Akhil-Binu" target="_blank"><img src="https://img.shields.io/badge/GitHub-Akhil--Binu-171614?style=flat-square&logo=github&logoColor=F7F5F0" alt="GitHub" /></a>
-  <a href="mailto:AkhilBinuRoom@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-C8452B?style=flat-square&logo=gmail&logoColor=F7F5F0" alt="Email" /></a>
 </p>
 
 <div align="center">
